@@ -10,8 +10,8 @@ I am a backend developer with more than 11 years of experience, most of it worki
 I already work as a leader, without coding, supporting the team and the delivery, and doing feasibility estimates for the client. I have a lot of experience working with Agile Methodologies and believe its right use can be a great tool to increase quality and value in a team's deliveries.
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [aquino.pca@gmail.com](mailto:joao.aquino.dev@gmail.com)
-* 🚀  I'm currently working at CondoConta (http://www.grupo3778.com.br/) as a Backend Developer
+* ✉️  You can contact me at [aquino.pca@gmail.com](mailto:aquino.pca@gmail.com)
+* 🚀  I'm currently working at CondoConta (https://condoconta.com.br/) as a Backend Developer
 
 #### Support Me
 
