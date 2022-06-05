@@ -1,16 +1,18 @@
-### Hi there 👋
+# Paula Aquino
 
-<!--
-**paulaAquino/paulaAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/paula-aquino-pca/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn: @paulaaquino"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I am a backend developer with more than 11 years of experience, most of it working with Java for web applications, recently I started working with Groovy, Golang, and Python.
+I already work as a leader, without coding, supporting the team and the delivery, and doing feasibility estimates for the client. I have a lot of experience working with Agile Methodologies and believe its right use can be a great tool to increase quality and value in a team's deliveries.
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [aquino.pca@gmail.com](mailto:joao.aquino.dev@gmail.com)
+* 🚀  I'm currently working at CondoConta (http://www.grupo3778.com.br/) as a Backend Developer
+
+#### Support Me
+
+<a href="https://www.buymeacoffee.com/pahaquino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="200" /></a>
