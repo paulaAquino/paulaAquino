@@ -11,7 +11,7 @@ I already work as a leader, without coding, supporting the team and the delivery
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [aquino.pca@gmail.com](mailto:aquino.pca@gmail.com)
-* 🚀  I'm currently working at Theia (https://theia.com.br/) as a Staff Software Engineer
+* 🚀  I'm currently working at Stone (https://www.stone.com.br/) as a Software Engineer
 
 #### Support Me
 
