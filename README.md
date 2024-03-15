@@ -2,7 +2,7 @@
 
 ### Hello
 
-<a href="https://www.linkedin.com/in/paula-aquino-pca/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn: @paulaaquino"/></a>
+<a href="https://www.linkedin.com/in/paula-aquino-pca/" target="_blank" rel="nofollow">Linkedin</a>
 
 ---
 
@@ -12,7 +12,3 @@ I already work as a leader, without coding, supporting the team and the delivery
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [aquino.pca@gmail.com](mailto:aquino.pca@gmail.com)
 * 🚀  I'm currently working at [Stone](https://www.stone.com.br/) as a Software Engineer
-
-#### Support Me
-
-<a href="https://www.buymeacoffee.com/pahaquino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="200" /></a>
